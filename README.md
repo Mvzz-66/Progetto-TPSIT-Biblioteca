@@ -10,6 +10,6 @@ Questo repository contiene la documentazione e il codice sorgente per il sistema
 | Ruolo | Nome | Responsabilità |
 | :--- | :--- | :--- |
 Project Manager:  |   **Massimiliano Drago** | *Responsabile degli standard e della gestione documentale.* <br> 
-Componente 2:     |   **Diego Scatizzi** | *Analisi dei requisiti (SRS).* <br>
-Componente 3:     |   **Matteo Procino** | *Progettazione UML (StarUML).* <br>
-Componente 4/5:   |   **Gabriele Severi e Duccio Donnini** | *Sviluppo codice e manualista.*
+Componente 1:     |   **Massimiliano Drago** | *Analisi dei requisiti (SRS).* <br>
+Componente 2:     |   **Matteo Procino** | *Progettazione UML (StarUML).* <br>
+Componente 3/4/5:   |   **Diego Scatizzi e Gabriele Severi e Duccio Donnini** | *Sviluppo codice e manualista.*
